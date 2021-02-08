@@ -13,3 +13,5 @@
 ## Screenshot
 
 ![Website Screenshot](assets\images\website-screenshotPNG.PNG)
+
+#### This portfolio will be updated as I continue learning and adding projects to my name, as well as new tools and skills to apply.
